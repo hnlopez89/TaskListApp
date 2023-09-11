@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap');
+
+a{
+    font-style: 'Roboto';
+    color: black;
+    text-decoration: none;
+}
+
+
+.nav_option {
+    color: darkgrey;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.nav_option_active {
+    color: gold;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.nav_option:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.nav_option_active:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+
